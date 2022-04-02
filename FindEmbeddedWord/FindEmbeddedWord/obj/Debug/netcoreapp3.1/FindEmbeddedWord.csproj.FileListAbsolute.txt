@@ -1,0 +1,13 @@
+C:\Users\r0bin\OneDrive\Área de Trabalho\FindEmbeddedWord\FindEmbeddedWord\bin\Debug\netcoreapp3.1\FindEmbeddedWord.exe
+C:\Users\r0bin\OneDrive\Área de Trabalho\FindEmbeddedWord\FindEmbeddedWord\bin\Debug\netcoreapp3.1\FindEmbeddedWord.deps.json
+C:\Users\r0bin\OneDrive\Área de Trabalho\FindEmbeddedWord\FindEmbeddedWord\bin\Debug\netcoreapp3.1\FindEmbeddedWord.runtimeconfig.json
+C:\Users\r0bin\OneDrive\Área de Trabalho\FindEmbeddedWord\FindEmbeddedWord\bin\Debug\netcoreapp3.1\FindEmbeddedWord.runtimeconfig.dev.json
+C:\Users\r0bin\OneDrive\Área de Trabalho\FindEmbeddedWord\FindEmbeddedWord\bin\Debug\netcoreapp3.1\FindEmbeddedWord.dll
+C:\Users\r0bin\OneDrive\Área de Trabalho\FindEmbeddedWord\FindEmbeddedWord\bin\Debug\netcoreapp3.1\FindEmbeddedWord.pdb
+C:\Users\r0bin\OneDrive\Área de Trabalho\FindEmbeddedWord\FindEmbeddedWord\obj\Debug\netcoreapp3.1\FindEmbeddedWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r0bin\OneDrive\Área de Trabalho\FindEmbeddedWord\FindEmbeddedWord\obj\Debug\netcoreapp3.1\FindEmbeddedWord.AssemblyInfoInputs.cache
+C:\Users\r0bin\OneDrive\Área de Trabalho\FindEmbeddedWord\FindEmbeddedWord\obj\Debug\netcoreapp3.1\FindEmbeddedWord.AssemblyInfo.cs
+C:\Users\r0bin\OneDrive\Área de Trabalho\FindEmbeddedWord\FindEmbeddedWord\obj\Debug\netcoreapp3.1\FindEmbeddedWord.csproj.CoreCompileInputs.cache
+C:\Users\r0bin\OneDrive\Área de Trabalho\FindEmbeddedWord\FindEmbeddedWord\obj\Debug\netcoreapp3.1\FindEmbeddedWord.dll
+C:\Users\r0bin\OneDrive\Área de Trabalho\FindEmbeddedWord\FindEmbeddedWord\obj\Debug\netcoreapp3.1\FindEmbeddedWord.pdb
+C:\Users\r0bin\OneDrive\Área de Trabalho\FindEmbeddedWord\FindEmbeddedWord\obj\Debug\netcoreapp3.1\FindEmbeddedWord.genruntimeconfig.cache
